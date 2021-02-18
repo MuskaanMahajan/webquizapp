@@ -1,0 +1,85 @@
+*{
+    padding:0px;
+    margin: 0px;
+    font-family: Helvetica, sans-serif;
+    
+
+
+}
+.ostyle{
+
+    margin-top:40px;
+    margin-left:20px;
+    margin-right:20px;
+    padding: 13px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 8px #888888;
+}
+#t1{
+    padding: 20px;
+}
+#header{
+    padding: 3px;
+}
+#correct{
+    padding: 6px;
+    width:min-content;
+    border-radius: 3px;
+    margin-top: 2px;
+    margin-bottom: 4px;
+    background-color: #d4edda;
+}
+#wrong{
+    padding: 6px;
+    margin-top: 2px;
+    margin-bottom: 4px;
+    width:min-content;
+    border-radius: 3px;
+    background-color:#f8d7da;
+}
+table{
+    
+    border-collapse: collapse;
+}
+#next{
+    padding: 6px;
+    width:min-content;
+    border-radius: 4px;
+    background-color:#29a846;
+    text-decoration: none;
+    color: white;
+    border: none;
+}
+#submit{
+    padding: 6px;
+    width:min-content;
+    border-radius: 4px;
+    background-color:#ffc107;
+    text-decoration: none;
+    color: black;
+    border: none;
+}
+#restart{
+    padding: 6px;
+    margin-left:20px;
+    margin-top:13px;
+    width:min-content;
+    border-radius: 4px;
+    background-color:#17a2b8;
+    text-decoration: none;
+    color: white;
+    border: none;
+}
+td{
+    padding-top: 4px;
+    padding-bottom: 4px;
+    
+}
+#a1, #a2, #a3, #a4, #a5, #a6, #a7, #a8, #a9{
+    width:min-content;
+    padding: 3px;
+    border-radius: 4px;
+    background-color:#29a846;
+    color: white;
+    border: none;
+}
